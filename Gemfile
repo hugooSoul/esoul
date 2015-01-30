@@ -52,4 +52,6 @@ gem 'devise'
 
 gem "cancan"
 
+gem "paperclip", "~> 4.2"
+
 #gem "twitter-bootstrap-rails"
